@@ -61,7 +61,22 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				/* Berry farm colors */
+				strawberry: 'hsl(var(--strawberry))',
+				raspberry: 'hsl(var(--raspberry))',
+				'leaf-green': 'hsl(var(--leaf-green))',
+				cream: 'hsl(var(--cream))',
+				earth: 'hsl(var(--earth))'
+			},
+			backgroundImage: {
+				'gradient-berry': 'var(--gradient-berry)',
+				'gradient-nature': 'var(--gradient-nature)',
+				'gradient-hero': 'var(--gradient-hero)'
+			},
+			boxShadow: {
+				'berry': 'var(--shadow-berry)',
+				'nature': 'var(--shadow-nature)'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
