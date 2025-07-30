@@ -7,7 +7,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center space-x-2">
           <div className="text-2xl font-bold bg-gradient-berry bg-clip-text text-transparent">
-            �草莓 Ягодная Ферма
+             Ягодная Ферма
           </div>
         </div>
         
